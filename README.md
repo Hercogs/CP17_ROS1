@@ -10,6 +10,7 @@
 
 2. Modify `ros1_ci` repo:
     - execute `. ~/catkin_ws/src/ros1_ci/push_changes.bash` command
+    - when asked for git credentials, copy them from 
 
 3. Monitor Jenkins:
-    - In Jenkin open task `` and verify results.
+    - In Jenkin open task **CP17_ROS1** and verify results.
