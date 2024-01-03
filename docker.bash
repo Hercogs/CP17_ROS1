@@ -1,5 +1,8 @@
 #! /bin/bash
 
+git config --global user.name "Hercogs"
+git config --global user.email "jecuks96@gmail.com"
+
 sudo apt-get update
 sudo apt-get install -y docker.io docker-compose
 sudo service docker start
